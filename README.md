@@ -27,8 +27,8 @@ A web-based quiz application with gamification features, built using **React**, 
 ### Steps to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
+   git clone https://github.com/Irshad-Ahmaed/Testline_Web_Dev_Assignment.git
+   cd Testline_Web_Dev_Assignment
    npm install
    npm run dev
 
