@@ -2,6 +2,18 @@
 
 A web-based quiz application with gamification features, built using **React**, **TailwindCSS**, and **axios**. The app fetches quiz data from an external API and provides an intuitive and engaging user interface.
 
+## Screen Shots:
+1. [Home Page](screenShots/home.png)
+2. [Quiz Page](screenShots/quiz.png)
+2. [Wrong Answer](screenShots/answering.png)
+2. [Correct Answer](screenShots/correctAnswer.png)
+2. [Result](screenShots/Result.png)
+
+## Demo
+
+Watch a quick demo of the app:
+
+[![Quiz App Demo](screenShots/home.png)](https://drive.google.com/file/d/1W6wZ_JIBz6Ti9tmmBFWAtQGwp-2Er60Z/view?usp=sharing)
 ---
 
 ## Features
